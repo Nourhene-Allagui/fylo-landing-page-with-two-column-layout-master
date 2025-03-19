@@ -1,0 +1,152 @@
+.navbar-light {
+  background: white !important;
+}
+.content {
+  padding: 150px 0;
+}
+.second-page {
+  background: url("bg-curve-mobile.svg") center center/cover;
+}
+.btn {
+  width: 200px;
+}
+
+.texts {
+  padding: 0 50px;
+}
+
+.text-size {
+  font-size: 2.8rem;
+}
+
+.paragraph-size {
+  font-size: 1.3rem;
+}
+
+.text-size-1 {
+  padding: 10px 0;
+  font-size: 2.2rem;
+}
+
+
+.paragraph-size-1 {
+  padding: 5px 0;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.text-link {
+  color: green;
+  font-size: 1rem;
+}
+
+.card {
+  width: 400px;
+  height: 250px;
+  border: none;
+  background: white;
+  box-shadow: 1px 1px 13px 8px #efefef;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+
+.caractere {
+  font-size: 2rem;
+}
+
+.paragraph-2 {
+  padding: 30px;
+}
+
+.photo {
+  border-radius: 200px;
+}
+.contact-data {
+  line-height: 2px;
+  margin: 10px 9px;
+}
+
+.nom {
+  font-size: 0.7rem;
+  font-weight: 700;
+}
+
+.prenom {
+  font-size: 0.7rem;
+}
+
+.details {
+  padding: 15px;
+  font-weight: 400;
+}
+
+.cards {
+  margin: 45px 0 0 0;
+}
+
+.penson-detail {
+  padding: 0 20px;
+}
+
+.third-page {
+  background: hsl(238, 22%, 44%);
+  color: white;
+}
+
+.input-item {
+  margin: 20px 0;
+  padding: 10px;
+  width: 500px;
+}
+
+.item-button {
+  padding: 10px;
+}
+.paragraph-size-2
+{
+  width: 450px;
+  font-size: 1.01rem;
+  font-weight: 300;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  color: white;
+  padding: 0 0;
+}
+.content-fourth {
+  padding: 50px 0;
+}
+.fourth-page {
+  background: hsl(243, 87%, 12%);
+}
+
+.order-list {
+  list-style: none;
+  li {
+    margin: 20px 0;
+    span {
+      margin: 10px 0;
+    }
+  }
+}
+
+
+.order-lists {
+  list-style: none;
+  display: flex;
+  li {
+    margin: 20px 0;
+    padding: 0 10px;
+  }
+}
+
+.attribution {
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  margin-bottom: 0;
+}
